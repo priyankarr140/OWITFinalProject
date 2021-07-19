@@ -1,0 +1,5 @@
+12:38:17.812 [main] INFO  Automation.Batch2FinalProject.LoginTest - URl launched
+12:38:23.190 [main] INFO  Automation.Batch2FinalProject.LoginTest - Username entered
+12:38:23.190 [main] INFO  Automation.Batch2FinalProject.LoginTest - Password entered
+12:38:33.606 [main] INFO  Automation.Batch2FinalProject.LoginTest - Logged In Successfully
+12:38:59.586 [main] INFO  Automation.Batch2FinalProject.LoginTest - Test case successfullly run
